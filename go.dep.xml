@@ -1,0 +1,9 @@
+<application>
+  <component name="GoDep">
+    <exec-paths>
+      <list>
+        <option value="$USER_HOME$/gocode/src/code.uber.internal/everything/api-bridge/go-build/dep" />
+      </list>
+    </exec-paths>
+  </component>
+</application>
